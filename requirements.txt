@@ -1,0 +1,8 @@
+streamlit
+groq
+faiss-cpu
+langchain
+openai
+sentence-transformers
+pdfplumber
+tiktoken
